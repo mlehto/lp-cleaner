@@ -1,2 +1,2 @@
 # LP Cleaner
-LP washing machine motor control code. Three speeds and switchable direction for platter rotation.
+LP washing machine stepper motor control code. Three speeds and switchable direction for platter rotation.
